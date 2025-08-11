@@ -5,5 +5,3 @@ source "https://rubygems.org"
 # gem "rails"
 
 gem "jekyll", "~> 4.4"
-gem "tzinfo"
-gem "tzinfo-data"
